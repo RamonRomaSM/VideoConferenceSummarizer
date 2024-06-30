@@ -1,2 +1,3 @@
-import tkinter as tk
-print("aa")
+from MainInterface import MainInterface
+
+a = MainInterface()
